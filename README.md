@@ -7,5 +7,5 @@ it is just a simple project to convert currencies
 
  ##Pictures
 
- <img src="https://github.com/samueludobong/currency-converter-app/blob/master/3dgifmaker93136.gif" width= "256"/>&nbsp;&nbsp;&nbsp;<img src="https://github.com/samueludobong/currency-converter-app/blob/master/3dgifmaker93136.gif" width= "256"/>
+ <img src="https://github.com/samueludobong/currency-converter-app/blob/master/3dgifmaker93136.gif" width= "256"/>&nbsp;&nbsp;&nbsp;<img src="https://github.com/samueludobong/currency-converter-app/blob/master/3dgifmaker86200.gif" width= "256"/>
  
