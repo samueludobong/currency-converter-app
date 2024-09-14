@@ -1,0 +1,29 @@
+<RCC>
+  <qresource prefix="assets">
+    <file>convert-document (1).png</file>
+    <file>circle-user (1).png</file>
+    <file>cross-small.png</file>
+    <file>user.png</file>
+    <file>money-exchange.png</file>
+    <file>angle-small-down.png</file>
+    <file>argentine.png</file>
+    <file>australian-dollar.png</file>
+    <file>bitcoin.png</file>
+    <file>calendar.png</file>
+    <file>canadian-dollar.png</file>
+    <file>doge.png</file>
+    <file>dollar-sign.png</file>
+    <file>euro.png</file>
+    <file>letter-a.png</file>
+    <file>mexico.png</file>
+    <file>money.png</file>
+    <file>money-transfer-coin-arrow.png</file>
+    <file>nigeria.png</file>
+    <file>place.qrc</file>
+    <file>pound-sterling.png</file>
+    <file>dollar-sign.png</file>
+    <file>angle-small-down.png</file>
+    <file>calendar.png</file>
+    <file>money-transfer-coin-arrow.png</file>
+  </qresource>
+</RCC>
